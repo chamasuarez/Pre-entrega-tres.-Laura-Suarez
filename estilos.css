@@ -29,7 +29,7 @@
 }
 
 .jumbotron {
-  background-image: url(../Img/thumbnail_IMG_7107.jpg);
+  background-image: url(./img/thumbnail_IMG_7107.jpg);
   background-position: center;
   background-size: cover;
   height: 450px;
@@ -55,7 +55,7 @@ h2 {
 
 .nleft {
   height: 450px;
-  background-image: url(../Img/thumbnail_IMG_7093.jpg);
+  background-image: url(./img/thumbnail_IMG_7093.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -128,6 +128,28 @@ h1 {
   background-size: cover;
   border-radius: 0;
   margin-bottom: 0;
+  background-color: rgb(26, 119, 26);
+}
+
+.titulo {
+  width: 100%;
+  height: 100px;
+  text-align: center;
+  background-color: rgb(13, 125, 13);
+  color: orange;
+  background-size: cover;
+}
+
+.conteinerv {
+  border: 0;
+  border-radius: 0;
+  margin: 1px;
+  max-width: 540px;
+  max-height: 326px;
+  padding: 0;
+  position: fixed;
+  background-position: center;
+  display: flex;
 }
 
 .container-p {
