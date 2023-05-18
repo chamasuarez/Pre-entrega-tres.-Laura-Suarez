@@ -152,6 +152,19 @@ h1 {
   display: flex;
 }
 
+.ubicacion1 {
+  width: 100%;
+  height: 100px;
+  text-align: center;
+  background-color: rgb(13, 125, 13);
+  color: orange;
+  background-size: cover;
+}
+
+.ubicacion2 {
+  background-position: center;
+}
+
 .container-p {
   color: white;
   background-color: rgb(235, 164, 32);
